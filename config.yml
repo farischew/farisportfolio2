@@ -1,0 +1,40 @@
+baseURL: ""
+languageCode: en-us
+title: Faris Portfolio
+theme: PaperMod
+
+params:
+    profileMode:
+        enabled: true
+        title: "<Hi, <strong>I'm Faris Chew</strong> >" # optional default will be site title
+        subtitle: "Welcome to my website! You will find my resume and current portfolio here. Do feel free to connect with me on any of my social media links below to connect."
+        buttons:
+          - name: Resume
+            url: "/resume/"
+          - name: PR Portfolio
+            url: "/pr_portfolio"
+          - name: ML Portfolio
+            url: /ml_portfolio
+  
+    socialIcons: # optional
+          - name: "linkedin"
+            url: "https://www.linkedin.com/in/farischew/"
+          - name: "telegram"
+            url: "https://telegram.me/farischew"
+
+
+menu:
+  main:
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 10
+    - identifier: pr_portfolio
+      name: PR Portfolio
+      url: /pr_portfolio/
+      weight: 20
+    - identifier: ml_portfolio
+      name: ML Portfolio
+      url: /ml_portfolio/
+      weight: 30
+    
