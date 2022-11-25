@@ -5,8 +5,6 @@ url: "/resume/"
 summary: "resume"
 ---
 
-# My Resume
-
 Full Resume in **PDF Format**: [here](/FarisChew_Resume.pdf)
 
 ## ABOUT ME
