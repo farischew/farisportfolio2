@@ -13,4 +13,4 @@ draft: false
 
 ![alt text](/Turnover_ShinyApp.jpg)
 
-[Link to GitHub Repository]("https://github.com/farischew/Employee_Turnover_project")
+[Link to GitHub Repository](https://github.com/farischew/Employee_Turnover_project)
