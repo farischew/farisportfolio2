@@ -6,15 +6,15 @@ theme: PaperMod
 params:
     profileMode:
         enabled: true
-        title: "<Hi, <strong>I'm Faris Chew</strong> >" # optional default will be site title
+        title: "<Hi, I'm **Faris Chew** >" # optional default will be site title
         subtitle: "Welcome to my website! You will find my resume and current portfolio here. Do feel free to connect with me on any of my social media links below to connect."
         buttons:
           - name: Resume
             url: "/resume/"
           - name: PR Portfolio
             url: "/pr_portfolio"
-          - name: ML Portfolio
-            url: /ml_portfolio
+          - name: Data Science Portfolio
+            url: /ml_portfolio/_index.md
   
     socialIcons: # optional
           - name: "linkedin"
