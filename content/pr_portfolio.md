@@ -17,7 +17,7 @@ I worked on this PR project during my time at Elliot & Co as part of their inter
 * **Secured Media:** [The Edge Singapore](https://www.theedgesingapore.com/options/feature/elliot-co-founder-jeremy-foo-overcoming-loss-baby-and-paying-it-forward-start-ups),  [The Royal Singapore](https://www.facebook.com/TheRoyalSingapore/posts/4636855906359540), [Telum](https://www.telummedia.com/public/news/telum-talks-to-jeremy-foo-ceo-and-founder-elliot-co/4n17p3r917)
 
 # [Project 2: LinkedIn Campaigns]
-![alt text](/Governance_for_Society.pdf)
+![alt text](/GOS1.jpg)
 
 Photo from [CIG's LinkedIn Post](https://www.linkedin.com/posts/chandlerinst_governance-for-society-50-activity-6874275299266326528-cARd?utm_source=share&utm_medium=member_desktop)
 
