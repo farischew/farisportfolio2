@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "farischew.com"
 layout: "resume"
 url: "/resume/"
 summary: "resume"
