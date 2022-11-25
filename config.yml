@@ -21,6 +21,8 @@ params:
             url: "https://www.linkedin.com/in/farischew/"
           - name: "telegram"
             url: "https://telegram.me/farischew"
+          - name: "github"
+            url: "https://github.com/farischew"
 
 
 menu:
