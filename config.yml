@@ -36,7 +36,7 @@ menu:
       url: /pr_portfolio/
       weight: 20
     - identifier: ml_portfolio
-      name: ML Portfolio
+      name: Data Science Portfolio
       url: /ml_portfolio/
       weight: 30
     
