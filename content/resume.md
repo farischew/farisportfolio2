@@ -37,7 +37,7 @@ I look forward to working in creative teams, contributing to building captivatin
 #### Singapore Management University
 ##### Bachelor of Business Management
 - Majored in **Corporate Communications** and **Strategic Management**
-- Current Cumulative GPA: **3.38/4**
+- Graduated with **Cum Laude (Distinction)**
 - Excelled in *Programme in Writing & Reasoning*, *Designing Communication for Behavioural Change*, and *Foundations in Strategic Communications*
 
 #### Ngee Ann Polytechnic
