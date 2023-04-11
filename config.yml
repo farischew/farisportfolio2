@@ -4,26 +4,25 @@ title: Faris Portfolio
 theme: PaperMod
 
 params:
-    profileMode:
-        enabled: true
-        title: "<Hi, I'm **Faris Chew** >" # optional default will be site title
-        subtitle: "Welcome to my website! You will find my resume and current portfolio here. Do feel free to connect with me on any of my social media links below to connect."
-        buttons:
-          - name: Resume
-            url: "/resume/"
-          - name: PR Portfolio
-            url: "/pr_portfolio"
-          - name: Data Science Portfolio
-            url: "/ml_portfolio"
-  
-    socialIcons: # optional
-          - name: "linkedin"
-            url: "https://www.linkedin.com/in/farischew/"
-          - name: "telegram"
-            url: "https://telegram.me/farischew"
-          - name: "github"
-            url: "https://github.com/farischew"
+  profileMode:
+    enabled: true
+    title: "< Hi, I'm **Faris Chew** >" # optional default will be site title
+    subtitle: "Welcome to my website! You will find my resume and current portfolio here. Do feel free to connect with me on any of my social media links below to connect."
+    buttons:
+      - name: Resume
+        url: "/resume/"
+      - name: PR Portfolio
+        url: "/pr_portfolio"
+      - name: Web Dev and Data Science Portfolio
+        url: "/ml_portfolio"
 
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/farischew/"
+    - name: "telegram"
+      url: "https://telegram.me/farischew"
+    - name: "github"
+      url: "https://github.com/farischew"
 
 menu:
   main:
@@ -36,7 +35,6 @@ menu:
       url: /pr_portfolio/
       weight: 20
     - identifier: ml_portfolio
-      name: Data Science Portfolio
+      name: Web Dev and Data Science Portfolio
       url: /ml_portfolio/
       weight: 30
-    
